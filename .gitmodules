@@ -1,0 +1,3 @@
+[submodule "StudentsFront"]
+	path = StudentsFront
+	url = https://github.com/gabriel-vidile/StudentsFront.git
