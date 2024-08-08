@@ -19,9 +19,9 @@ studentsApi/
  README.md
 
 
-## Instruções de cada parte do projeto
+## Instruções específicas de cada parte do projeto
 
- - [Api](https://github.com/gabriel-vidile/studentsApi/blob/main/StudentManagementAPI/Readme.md)
+ - [Backend](https://github.com/gabriel-vidile/studentsApi/blob/main/StudentManagementAPI/Readme.md)
  - [FrontEnd](https://github.com/gabriel-vidile/StudentsFront/blob/533e3aa9f33aae3d5b4e3785c344d0af1b4a1772/README.md)
 
 
